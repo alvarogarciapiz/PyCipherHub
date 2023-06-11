@@ -1,0 +1,18 @@
+import numpy as np
+
+alfabeto = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n','ñ', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+
+M = input("Introduce el texto a cifrar: ")
+B = int(input("Introduce la constante de desplazamiento: "))
+C = ""
+
+for letra in M:
+    if(letra==" "):
+            C+=" "
+    else:
+        posicionLetraNueva = ((alfabeto.index(letra) + B) % 27)
+        letraNueva = alfabeto[posicionLetraNueva]
+        C+=letraNueva
+        
+                
+print("El mensaje cifrado es: " + C)
