@@ -29,11 +29,3 @@ Si tienes alguna pregunta o necesita ayuda con alguno de los programas, no dudes
 
 ## Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas agregar nuevos cifradores, descifradores o mejorar los existentes, no dudes en crear una solicitud de extracción (pull request) para colaborar en este proyecto.
-
-## Licencia
-Este repositorio se encuentra bajo la licencia [INSERTA LA LICENCIA APROPIADA]. Consulta el archivo de licencia para obtener más detalles.
-
----
-Asegúrate de reemplazar "[INSERTA LA LICENCIA APROPIADA]" con la licencia específica bajo la cual deseas distribuir tu código. También puedes agregar cualquier otra información adicional que consideres relevante en el README.
-
-Es importante proporcionar información clara y concisa sobre el contenido y el propósito de tu repositorio, así como instrucciones sobre cómo utilizar tus programas. ¡Espero que este README te sea útil!
